@@ -1,4 +1,9 @@
-//ROUGH TTS SYSTEM PHANTOMBOT   https://community.phantombot.tv/uploads/default/original/1X/cefcb68897097dadb2a16c3dc548543770b3384a.js
+//ROUGH TTS SYSTEM PHANTOMBOT   
+//https://community.phantombot.tv/uploads/default/original/1X/cefcb68897097dadb2a16c3dc548543770b3384a.js
+//https://community.phantombot.tv/t/text-to-speech-tts-for-chat/254/31
+
+
+
 var TTS = {
     speak: function(inputText){//Define function getting & playing TTS
 	var speechText = "<voice>" + inputText;
